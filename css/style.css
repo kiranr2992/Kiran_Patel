@@ -302,6 +302,7 @@ h3.my-profession{
 .about .about-content .about-text{
     flex: 0 0 100%;
     max-width: 100%;
+    text-align: justify;
 }
 .about .about-content .about-text h3{
     font-size: 24px;
